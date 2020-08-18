@@ -1,2 +1,7 @@
 # Decision-Tree-Classifier-Iris-Dataset
-Decision Tree Classifier for Iris Dataset Classification
+Exploring Decision Tree Classifier for Iris Dataset Classification
+
+
+## Tree Visualization
+
+![alt text](treeVisualization.jpg)
