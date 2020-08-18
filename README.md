@@ -1,4 +1,4 @@
-# Decision-Tree-Classifier-Iris-Dataset
+# Decision Tree Classifier Iris Dataset
 Exploring Decision Tree Classifier for Iris Dataset Classification
 
 
